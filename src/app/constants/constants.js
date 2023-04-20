@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/airbnb.jpg',
     tags: ['React', 'Firebase', 'Next JS', 'TypeScript'],
     source: 'https://github.com/Melka1/airbnb-clone',
-    visit: 'https://airbnb-clone-melka1.vercel.app/',
+    visit: 'https://airbnb-clone-rust-xi.vercel.app/',
     id: 1,
   },
   {
