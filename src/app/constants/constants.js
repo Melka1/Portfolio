@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Questionnaire App',
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/quizzical.png',
+    image: '/images/quizzical.PNG',
     tags: ['React', 'API'],
     source: 'https://github.com/Melka1/Questionaire',
     visit: 'https://questionaire-eta.vercel.app/',
