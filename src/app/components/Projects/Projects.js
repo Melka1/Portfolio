@@ -20,6 +20,7 @@ const Projects = () => (
           </TitleContent>
           <CardInfo>{description}</CardInfo>
           <div>
+            <Hr/>
             <TitleContent>Stack</TitleContent>
             <TagList>
               {tags.map((tag, index)=>(
@@ -27,8 +28,8 @@ const Projects = () => (
               ))}
             </TagList>
             <UtilityList>
-              <ExternalLinks href={visit}>Code</ExternalLinks>
-              <ExternalLinks href={source}>Source</ExternalLinks>
+              <ExternalLinks href={visit} target='_black'>View</ExternalLinks>
+              <ExternalLinks href={source} target='_black'>Source</ExternalLinks>
             </UtilityList>
           </div>
         </BlogCard>

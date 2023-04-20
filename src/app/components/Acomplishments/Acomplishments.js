@@ -4,6 +4,7 @@ import React from 'react';
 import { FaFreeCodeCamp } from 'react-icons/fa'
 import { SecondaryBtn, Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { Box, Boxes, BoxNum, BoxText, IconContainer } from './AcomplishmentsStyles';
+import { Hr } from '../Projects/ProjectsStyles';
 
 const data = [
   { link: 'https://www.freecodecamp.org/certification/melka1/responsive-web-design', title: 'Responsive Web Design'},
@@ -22,6 +23,7 @@ const Acomplishments = () => (
               <FaFreeCodeCamp size={38}/>
             </IconContainer>
             <BoxNum>FreeCodeCamp</BoxNum>
+            <Hr/>
             <BoxText>{card.title}</BoxText>
           </Box>
         </a>
