@@ -1,0 +1,13985 @@
+self.__RSC_MANIFEST={
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/app-call-server.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/app-call-server.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/app-call-server.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/app-call-server.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/is-next-router-error.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/is-next-router-error.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/is-next-router-error.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/is-next-router-error.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/navigation.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/navigation.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/navigation.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/navigation.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/not-found.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/not-found.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/not-found.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/not-found.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js",
+        "name": "default",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+        "name": "*",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+        "name": "",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "NEXT_DYNAMIC_NO_SSR_CODE": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+        "name": "NEXT_DYNAMIC_NO_SSR_CODE",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      },
+      "__esModule": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+        "name": "__esModule",
+        "chunks": [
+          "webpack:webpack"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/add-base-path.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router-announcer.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router-announcer.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router-announcer.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router-announcer.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router-headers.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router-headers.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router-headers.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router-headers.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "urlToUrlWithoutFlightMarker": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "urlToUrlWithoutFlightMarker",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "TODO-APP": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "TODO-APP",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "__NA": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "__NA",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "location": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "location",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "\"http": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "\"http",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "searchParams": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "searchParams",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "pathname": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "pathname",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "type": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "type",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "cache": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "cache",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "status": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "status",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "data": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "data",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "subTreeData": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "subTreeData",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "parallelRoutes": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "parallelRoutes",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "mutable": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "mutable",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "isExternalUrl": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "isExternalUrl",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "locationSearch": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "locationSearch",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "back": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "back",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "forward": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "forward",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "prefetch": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "prefetch",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "replace": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "replace",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "push": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "push",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "refresh": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "refresh",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "origin": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "origin",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "fastRefresh": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "fastRefresh",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "router": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "router",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "url": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "url",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "tree": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "tree",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "notFound": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "notFound",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "notFoundStyles": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "notFoundStyles",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "asNotFound": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "asNotFound",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "pushRef": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "pushRef",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "canonicalUrl": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "canonicalUrl",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "sync": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "sync",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "value",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "childNodes": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "childNodes",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "assetPrefix": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "assetPrefix",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "errorComponent": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "errorComponent",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "ErrorBoundaryHandler": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundaryHandler",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "ErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundary",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "error": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "error",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "https": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "https",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "fontFamily": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "fontFamily",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "height": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "height",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "textAlign": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "textAlign",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "display": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "display",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "flexDirection": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "flexDirection",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "alignItems": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "alignItems",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "justifyContent": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "justifyContent",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "desc": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "desc",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "text": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "text",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "fontSize": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "fontSize",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "fontWeight": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "fontWeight",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "lineHeight": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "lineHeight",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "margin": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "margin",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "reset": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "reset",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "style": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "style",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "\"Digest": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "\"Digest",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "errorComponent": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "errorComponent",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "errorStyles": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "errorStyles",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "value",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/hooks-server-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/hooks-server-context.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/hooks-server-context.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/hooks-server-context.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/infinite-promise.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/infinite-promise.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/infinite-promise.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/infinite-promise.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/match-segments.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/match-segments.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/match-segments.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/match-segments.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/not-found-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/not-found-boundary.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/not-found-boundary.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/not-found-boundary.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "RedirectErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectErrorBoundary",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "RedirectBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectBoundary",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "redirect": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "redirect",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "reset": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "reset",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "router": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "router",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "value": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "value",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-bailout.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-bailout.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-bailout.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-bailout.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/add-locale.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/get-domain-locale.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/request-idle-callback.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/use-intersection.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Acomplishments/Acomplishments.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/Acomplishments.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/Acomplishments.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/Acomplishments.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Box": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+        "name": "Box",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "BoxNum": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+        "name": "BoxNum",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "BoxText": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+        "name": "BoxText",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Boxes": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+        "name": "Boxes",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "IconContainer": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+        "name": "IconContainer",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Join": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+        "name": "Join",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "JoinText": {
+        "id": "(sc_client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+        "name": "JoinText",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Footer/Footer.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Footer/Footer.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Footer/Footer.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Footer/Footer.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Footer/FooterStyles.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CompanyContainer": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "CompanyContainer",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "FooterWrapper": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "FooterWrapper",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "LinkColumn": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "LinkColumn",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "LinkItem": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "LinkItem",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "LinkList": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "LinkList",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "LinkTitle": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "LinkTitle",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Slogan": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "Slogan",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "SocialContainer": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "SocialContainer",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "SocialIconsContainer": {
+        "id": "(sc_client)/./src/app/components/Footer/FooterStyles.js",
+        "name": "SocialIconsContainer",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Header/Header.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Header/Header.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Header/Header.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Header/Header.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Header/HeaderStyles.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ContactDropDown": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "ContactDropDown",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Container": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "Container",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Div1": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "Div1",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Div2": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "Div2",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Div3": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "Div3",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "NavLink": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "NavLink",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "NavProductsIcon": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "NavProductsIcon",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "SocialIcons": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "SocialIcons",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Span": {
+        "id": "(sc_client)/./src/app/components/Header/HeaderStyles.js",
+        "name": "Span",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Hero/Hero.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Hero/Hero.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Hero/Hero.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Hero/Hero.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Hero/HeroStyles.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Hero/HeroStyles.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Hero/HeroStyles.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "LeftSection": {
+        "id": "(sc_client)/./src/app/components/Hero/HeroStyles.js",
+        "name": "LeftSection",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Projects/Projects.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Projects/Projects.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Projects/Projects.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Projects/Projects.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Projects/ProjectsStyles.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "BlogCard": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "BlogCard",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CardInfo": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "CardInfo",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ExternalLinks": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "ExternalLinks",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "GridContainer": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "GridContainer",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "HeaderThree": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "HeaderThree",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Hr": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "Hr",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Img": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "Img",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Intro": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "Intro",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Tag": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "Tag",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "TagList": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "TagList",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "TitleContent": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "TitleContent",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "UtilityList": {
+        "id": "(sc_client)/./src/app/components/Projects/ProjectsStyles.js",
+        "name": "UtilityList",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Technologies/Technologies.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Technologies/Technologies.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Technologies/Technologies.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/Technologies/Technologies.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ImageContainer": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "ImageContainer",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "List": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "List",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ListContainer": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "ListContainer",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ListIcon": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "ListIcon",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ListItem": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "ListItem",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ListParagraph": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "ListParagraph",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ListTitle": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "ListTitle",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "MainImage": {
+        "id": "(sc_client)/./src/app/components/Technologies/TechnologiesStyles.js",
+        "name": "MainImage",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/TimeLine/TimeLine.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLine.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLine.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLine.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CarouselButton": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "CarouselButton",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CarouselButtonDot": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "CarouselButtonDot",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CarouselButtons": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "CarouselButtons",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CarouselContainer": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "CarouselContainer",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CarouselItem": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "CarouselItem",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CarouselItemImg": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "CarouselItemImg",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CarouselItemText": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "CarouselItemText",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CarouselItemTitle": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "CarouselItemTitle",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "CarouselMobileScrollNode": {
+        "id": "(sc_client)/./src/app/components/TimeLine/TimeLineStyles.js",
+        "name": "CarouselMobileScrollNode",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/constants/constants.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/constants/constants.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/constants/constants.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "TimeLineData": {
+        "id": "(sc_client)/./src/app/constants/constants.js",
+        "name": "TimeLineData",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "projects": {
+        "id": "(sc_client)/./src/app/constants/constants.js",
+        "name": "projects",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/layout/LayoutStyles.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/layout/LayoutStyles.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/layout/LayoutStyles.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Container": {
+        "id": "(sc_client)/./src/app/layout/LayoutStyles.js",
+        "name": "Container",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/styles/GlobalComponents/Button.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/Button.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/Button.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/Button.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/styles/GlobalComponents/index.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ButtonBack": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "ButtonBack",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "ButtonFront": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "ButtonFront",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "LinkContainer": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "LinkContainer",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "LinkIconImg": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "LinkIconImg",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "SecondaryBtn": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "SecondaryBtn",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "Section": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "Section",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "SectionDivider": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "SectionDivider",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "SectionSubText": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "SectionSubText",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "SectionText": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "SectionText",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "SectionTitle": {
+        "id": "(sc_client)/./src/app/styles/GlobalComponents/index.js",
+        "name": "SectionTitle",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/styles/globals.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/styles/globals.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/styles/globals.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/styles/globals.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/styles/theme.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/styles/theme.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/styles/theme.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/styles/theme.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/themes/default.js": {
+      "*": {
+        "id": "(sc_client)/./src/app/themes/default.js",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/themes/default.js",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/themes/default.js",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "cssFiles": {
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\page": [
+      "static/css/app/page.css"
+    ],
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\layout": [
+      "static/css/app/layout.css"
+    ]
+  },
+  "clientModules": {
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-bootstrap.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-bootstrap.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-bootstrap.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-bootstrap.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-bootstrap.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-bootstrap.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-bootstrap.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-bootstrap.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-bootstrap.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-bootstrap.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-bootstrap.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-bootstrap.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-call-server.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-call-server.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-call-server.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-call-server.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-call-server.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-call-server.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-call-server.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-call-server.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-call-server.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-call-server.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-call-server.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-call-server.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-next-dev.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-next-dev.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-next-dev.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-next-dev.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-next-dev.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-next-dev.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-next-dev.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-next-dev.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\app-next-dev.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-next-dev.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\app-next-dev.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/app-next-dev.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\client-hook-in-server-component-error.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\client-hook-in-server-component-error.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\client-hook-in-server-component-error.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\client-hook-in-server-component-error.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\client-hook-in-server-component-error.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\client-hook-in-server-component-error.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/client-hook-in-server-component-error.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\is-next-router-error.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/is-next-router-error.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\is-next-router-error.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/is-next-router-error.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\is-next-router-error.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/is-next-router-error.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\is-next-router-error.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/is-next-router-error.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\is-next-router-error.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/is-next-router-error.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\is-next-router-error.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/is-next-router-error.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\navigation.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/navigation.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\navigation.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/navigation.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\navigation.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/navigation.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\navigation.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/navigation.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\navigation.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/navigation.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\navigation.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/navigation.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\not-found.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\not-found.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\not-found.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\not-found.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\not-found.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\not-found.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\hot-reloader-client.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\hot-reloader-client.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\hot-reloader-client.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\hot-reloader-client.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\hot-reloader-client.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\hot-reloader-client.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/hot-reloader-client.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\ReactDevOverlay.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\ReactDevOverlay.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\ReactDevOverlay.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\ReactDevOverlay.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\ReactDevOverlay.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\ReactDevOverlay.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/ReactDevOverlay.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\CodeFrame.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\CodeFrame.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\CodeFrame.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\CodeFrame.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\CodeFrame.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\CodeFrame.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/CodeFrame.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\CodeFrame\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/CodeFrame/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\Dialog.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\Dialog.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\Dialog.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\Dialog.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\Dialog.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\Dialog.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/Dialog.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogBody.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogBody.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogBody.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogBody.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogBody.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogBody.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogBody.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogContent.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogContent.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogContent.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogContent.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogContent.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogContent.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogContent.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogHeader.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogHeader.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogHeader.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogHeader.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogHeader.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\DialogHeader.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/DialogHeader.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Dialog\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Dialog/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\LeftRightDialogHeader.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\LeftRightDialogHeader.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\LeftRightDialogHeader.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\LeftRightDialogHeader.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\LeftRightDialogHeader.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\LeftRightDialogHeader.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/LeftRightDialogHeader.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\LeftRightDialogHeader\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/LeftRightDialogHeader/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\Overlay.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\Overlay.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\Overlay.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\Overlay.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\Overlay.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\Overlay.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/Overlay.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\body-locker.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\body-locker.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\body-locker.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\body-locker.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\body-locker.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\body-locker.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/body-locker.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\maintain--tab-focus.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\maintain--tab-focus.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\maintain--tab-focus.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\maintain--tab-focus.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\maintain--tab-focus.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\maintain--tab-focus.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/maintain--tab-focus.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Overlay\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Overlay/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\ShadowPortal.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\ShadowPortal.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\ShadowPortal.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\ShadowPortal.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\ShadowPortal.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\ShadowPortal.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/ShadowPortal.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\EditorLink.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\EditorLink.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\EditorLink.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\EditorLink.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\EditorLink.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\EditorLink.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/EditorLink.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\Terminal.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\Terminal.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\Terminal.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\Terminal.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\Terminal.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\Terminal.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/Terminal.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Terminal\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Terminal/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\Toast.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\Toast.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\Toast.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\Toast.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\Toast.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\Toast.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/Toast.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\Toast\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/Toast/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\VersionStalenessInfo.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\VersionStalenessInfo.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\VersionStalenessInfo.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\VersionStalenessInfo.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\VersionStalenessInfo.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\VersionStalenessInfo.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/VersionStalenessInfo.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\styles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\styles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\VersionStalenessInfo\\styles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/VersionStalenessInfo/styles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\get-words-and-whitespaces.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\get-words-and-whitespaces.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\get-words-and-whitespaces.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\get-words-and-whitespaces.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\get-words-and-whitespaces.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\get-words-and-whitespaces.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/get-words-and-whitespaces.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\components\\hot-linked-text\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/components/hot-linked-text/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\BuildError.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\BuildError.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\BuildError.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\BuildError.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\BuildError.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\BuildError.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/BuildError.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\Errors.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\Errors.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\Errors.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\Errors.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\Errors.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\Errors.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/Errors.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RootLayoutError.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RootLayoutError.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RootLayoutError.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RootLayoutError.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RootLayoutError.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RootLayoutError.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RootLayoutError.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\CallStackFrame.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\CallStackFrame.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\CallStackFrame.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\CallStackFrame.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\CallStackFrame.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\CallStackFrame.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/CallStackFrame.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\ComponentStackFrameRow.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\ComponentStackFrameRow.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\ComponentStackFrameRow.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\ComponentStackFrameRow.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\ComponentStackFrameRow.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\ComponentStackFrameRow.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/ComponentStackFrameRow.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\FrameworkIcon.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\FrameworkIcon.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\FrameworkIcon.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\FrameworkIcon.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\FrameworkIcon.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\FrameworkIcon.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/FrameworkIcon.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\GroupedStackFrames.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\GroupedStackFrames.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\GroupedStackFrames.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\GroupedStackFrames.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\GroupedStackFrames.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\GroupedStackFrames.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/GroupedStackFrames.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\container\\RuntimeError\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/container/RuntimeError/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\error-overlay-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\error-overlay-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\error-overlay-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\error-overlay-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\error-overlay-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\error-overlay-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/error-overlay-reducer.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\get-socket-protocol.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\get-socket-protocol.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\get-socket-protocol.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\get-socket-protocol.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\get-socket-protocol.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\get-socket-protocol.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/get-socket-protocol.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\getErrorByType.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\getErrorByType.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\getErrorByType.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\getErrorByType.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\getErrorByType.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\getErrorByType.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/getErrorByType.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\group-stack-frames-by-framework.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\group-stack-frames-by-framework.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\group-stack-frames-by-framework.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\group-stack-frames-by-framework.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\group-stack-frames-by-framework.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\group-stack-frames-by-framework.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/group-stack-frames-by-framework.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\hydration-error-info.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\hydration-error-info.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\hydration-error-info.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\hydration-error-info.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\hydration-error-info.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\hydration-error-info.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/hydration-error-info.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\nodeStackFrames.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\nodeStackFrames.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\nodeStackFrames.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\nodeStackFrames.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\nodeStackFrames.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\nodeStackFrames.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/nodeStackFrames.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\noop-template.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\noop-template.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\noop-template.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\noop-template.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\noop-template.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\noop-template.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/noop-template.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\parse-component-stack.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\parse-component-stack.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\parse-component-stack.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\parse-component-stack.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\parse-component-stack.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\parse-component-stack.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parse-component-stack.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\parseStack.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\parseStack.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\parseStack.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\parseStack.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\parseStack.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\parseStack.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/parseStack.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\stack-frame.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\stack-frame.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\stack-frame.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\stack-frame.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\stack-frame.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\stack-frame.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/stack-frame.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-error-handler.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\use-error-handler.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-error-handler.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\use-error-handler.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-error-handler.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\use-error-handler.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-error-handler.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-open-in-editor.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\use-open-in-editor.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-open-in-editor.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\use-open-in-editor.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-open-in-editor.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\use-open-in-editor.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-open-in-editor.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/helpers/use-websocket.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\hooks\\use-on-click-outside.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\hooks\\use-on-click-outside.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\hooks\\use-on-click-outside.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\hooks\\use-on-click-outside.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\hooks\\use-on-click-outside.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\hooks\\use-on-click-outside.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/hooks/use-on-click-outside.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\icons\\CloseIcon.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\icons\\CloseIcon.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\icons\\CloseIcon.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\icons\\CloseIcon.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\icons\\CloseIcon.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\icons\\CloseIcon.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/icons/CloseIcon.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\styles\\Base.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\styles\\Base.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\styles\\Base.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\styles\\Base.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\styles\\Base.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\styles\\Base.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/Base.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\styles\\ComponentStyles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\styles\\ComponentStyles.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\styles\\ComponentStyles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\styles\\ComponentStyles.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\styles\\ComponentStyles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\styles\\ComponentStyles.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/ComponentStyles.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\styles\\CssReset.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\styles\\CssReset.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\styles\\CssReset.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\styles\\CssReset.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\styles\\CssReset.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\react-dev-overlay\\internal\\styles\\CssReset.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/react-dev-overlay/internal/styles/CssReset.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\get-segment-value.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\get-segment-value.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\get-segment-value.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\get-segment-value.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\get-segment-value.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\get-segment-value.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/get-segment-value.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\dev\\error-overlay\\format-webpack-messages.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\dev\\error-overlay\\format-webpack-messages.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\dev\\error-overlay\\format-webpack-messages.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\dev\\error-overlay\\format-webpack-messages.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\dev\\error-overlay\\format-webpack-messages.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\dev\\error-overlay\\format-webpack-messages.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\on-recoverable-error.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/on-recoverable-error.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\on-recoverable-error.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/on-recoverable-error.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\on-recoverable-error.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/on-recoverable-error.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\on-recoverable-error.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/on-recoverable-error.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\on-recoverable-error.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/on-recoverable-error.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\on-recoverable-error.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/on-recoverable-error.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\compiled\\strip-ansi\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/compiled/strip-ansi/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\compiled\\strip-ansi\\index.js": {
+      "id": "(app-client)/./node_modules/next/dist/compiled/strip-ansi/index.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\compiled\\strip-ansi\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/compiled/strip-ansi/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\compiled\\strip-ansi\\index.js#": {
+      "id": "(app-client)/./node_modules/next/dist/compiled/strip-ansi/index.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\compiled\\strip-ansi\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/compiled/strip-ansi/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\compiled\\strip-ansi\\index.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/compiled/strip-ansi/index.js",
+      "name": "default",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "CacheStates",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "AppRouterContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "LayoutRouterContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "GlobalLayoutRouterContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "TemplateContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\head-manager-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head-manager-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head-manager-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head-manager-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\head-manager-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head-manager-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head-manager-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head-manager-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\head-manager-context.js#HeadManagerContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head-manager-context.js",
+      "name": "HeadManagerContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head-manager-context.js#HeadManagerContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head-manager-context.js",
+      "name": "HeadManagerContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\head-manager-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head-manager-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\head-manager-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head-manager-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "PathnameContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#ParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "ParamsContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#ParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "ParamsContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#LayoutSegmentsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "LayoutSegmentsContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#LayoutSegmentsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "LayoutSegmentsContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\no-ssr-error.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\no-ssr-error.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\no-ssr-error.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\no-ssr-error.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\no-ssr-error.js#NEXT_DYNAMIC_NO_SSR_CODE": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+      "name": "NEXT_DYNAMIC_NO_SSR_CODE",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\no-ssr-error.js#NEXT_DYNAMIC_NO_SSR_CODE": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+      "name": "NEXT_DYNAMIC_NO_SSR_CODE",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\no-ssr-error.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+      "name": "__esModule",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\no-ssr-error.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/no-ssr-error.js",
+      "name": "__esModule",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "useServerInsertedHTML",
+      "chunks": [
+        "webpack:webpack"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\add-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\add-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\add-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\add-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\add-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\add-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router-announcer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-announcer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router-announcer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-announcer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router-announcer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-announcer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router-announcer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-announcer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router-announcer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-announcer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router-announcer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-announcer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router-headers.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-headers.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router-headers.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-headers.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router-headers.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-headers.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router-headers.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-headers.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router-headers.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-headers.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router-headers.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router-headers.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "urlToUrlWithoutFlightMarker",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "TODO-APP",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "TODO-APP",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "__NA",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "__NA",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#location": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "location",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "location",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "\"http",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "\"http",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "searchParams",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "searchParams",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pathname",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pathname",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#type": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "type",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "type",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#cache": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "cache",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "cache",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#status": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "status",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "status",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#data": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "data",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "data",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "subTreeData",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "subTreeData",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "parallelRoutes",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "parallelRoutes",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "mutable",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "mutable",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "isExternalUrl",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "isExternalUrl",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "locationSearch",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "locationSearch",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#back": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "back",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "back",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#forward": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "forward",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "forward",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "prefetch",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "prefetch",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#replace": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "replace",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "replace",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#push": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "push",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "push",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "refresh",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "refresh",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#origin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "origin",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "origin",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "fastRefresh",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "fastRefresh",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "router",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "router",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#url": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "url",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "url",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#tree": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "tree",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "tree",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFound",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFound",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFoundStyles",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "notFoundStyles",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "asNotFound",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "asNotFound",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pushRef",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "pushRef",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "canonicalUrl",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "canonicalUrl",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#sync": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "sync",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "sync",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "childNodes",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "childNodes",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "assetPrefix",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "assetPrefix",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "errorComponent",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "errorComponent",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\async-local-storage.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/async-local-storage.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\async-local-storage.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/async-local-storage.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\async-local-storage.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/async-local-storage.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\async-local-storage.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/async-local-storage.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\async-local-storage.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/async-local-storage.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\async-local-storage.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/async-local-storage.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundary",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "error",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "error",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "https",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "https",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontFamily",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontFamily",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "height",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "height",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "textAlign",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "textAlign",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "display",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "display",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "flexDirection",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "flexDirection",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "alignItems",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "alignItems",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "justifyContent",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "justifyContent",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "desc",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "desc",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "text",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "text",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontSize",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontSize",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontWeight",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "fontWeight",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "lineHeight",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "lineHeight",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "margin",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "margin",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "style",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "style",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "\"Digest",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "\"Digest",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorComponent",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorComponent",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorStyles",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "errorStyles",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\hooks-server-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/hooks-server-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\hooks-server-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/hooks-server-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\hooks-server-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/hooks-server-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\hooks-server-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/hooks-server-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\hooks-server-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/hooks-server-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\hooks-server-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/hooks-server-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\infinite-promise.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/infinite-promise.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\infinite-promise.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/infinite-promise.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\infinite-promise.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/infinite-promise.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\infinite-promise.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/infinite-promise.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\infinite-promise.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/infinite-promise.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\infinite-promise.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/infinite-promise.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\match-segments.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/match-segments.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\match-segments.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/match-segments.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\match-segments.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/match-segments.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\match-segments.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/match-segments.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\match-segments.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/match-segments.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\match-segments.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/match-segments.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\not-found-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\not-found-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\not-found-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\not-found-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\not-found-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\not-found-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/not-found-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectBoundary",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "redirect",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "redirect",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "reset",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "router",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "router",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "value",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\apply-flight-data.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\apply-flight-data.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\apply-flight-data.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\apply-flight-data.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\apply-flight-data.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\apply-flight-data.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-flight-data.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\apply-router-state-patch-to-tree.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\apply-router-state-patch-to-tree.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\apply-router-state-patch-to-tree.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\apply-router-state-patch-to-tree.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\apply-router-state-patch-to-tree.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\apply-router-state-patch-to-tree.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/apply-router-state-patch-to-tree.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\compute-changed-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\compute-changed-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\compute-changed-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\compute-changed-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\compute-changed-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\compute-changed-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/compute-changed-path.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-href-from-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-href-from-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-href-from-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-href-from-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-href-from-url.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-href-from-url.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-href-from-url.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-initial-router-state.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-initial-router-state.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-initial-router-state.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-initial-router-state.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-initial-router-state.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-initial-router-state.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-initial-router-state.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-optimistic-tree.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-optimistic-tree.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-optimistic-tree.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-optimistic-tree.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-optimistic-tree.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-optimistic-tree.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-optimistic-tree.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-record-from-thenable.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-record-from-thenable.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-record-from-thenable.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-record-from-thenable.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-record-from-thenable.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-record-from-thenable.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-record-from-thenable.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-router-cache-key.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-router-cache-key.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-router-cache-key.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-router-cache-key.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\create-router-cache-key.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\create-router-cache-key.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/create-router-cache-key.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fill-cache-with-data-property.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fill-cache-with-data-property.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fill-cache-with-data-property.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fill-cache-with-data-property.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fill-cache-with-data-property.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fill-cache-with-data-property.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-data-property.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fill-cache-with-new-subtree-data.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fill-cache-with-new-subtree-data.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fill-cache-with-new-subtree-data.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fill-cache-with-new-subtree-data.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fill-cache-with-new-subtree-data.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fill-cache-with-new-subtree-data.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-cache-with-new-subtree-data.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fill-lazy-items-till-leaf-with-head.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fill-lazy-items-till-leaf-with-head.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fill-lazy-items-till-leaf-with-head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fill-lazy-items-till-leaf-with-head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\fill-lazy-items-till-leaf-with-head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fill-lazy-items-till-leaf-with-head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fill-lazy-items-till-leaf-with-head.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\handle-mutable.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\handle-mutable.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\handle-mutable.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\handle-mutable.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\handle-mutable.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\handle-mutable.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/handle-mutable.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\invalidate-cache-below-flight-segmentpath.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\invalidate-cache-below-flight-segmentpath.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\invalidate-cache-below-flight-segmentpath.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\invalidate-cache-below-flight-segmentpath.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\invalidate-cache-below-flight-segmentpath.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\invalidate-cache-below-flight-segmentpath.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-below-flight-segmentpath.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\invalidate-cache-by-router-state.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\invalidate-cache-by-router-state.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\invalidate-cache-by-router-state.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\invalidate-cache-by-router-state.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\invalidate-cache-by-router-state.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\invalidate-cache-by-router-state.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/invalidate-cache-by-router-state.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\is-navigating-to-new-root-layout.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\is-navigating-to-new-root-layout.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\is-navigating-to-new-root-layout.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\is-navigating-to-new-root-layout.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\is-navigating-to-new-root-layout.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\is-navigating-to-new-root-layout.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/is-navigating-to-new-root-layout.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\read-record-value.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\read-record-value.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\read-record-value.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\read-record-value.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\read-record-value.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\read-record-value.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/read-record-value.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\fast-refresh-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\fast-refresh-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\fast-refresh-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\fast-refresh-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\fast-refresh-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\fast-refresh-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/fast-refresh-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\find-head-in-cache.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\find-head-in-cache.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\find-head-in-cache.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\find-head-in-cache.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\find-head-in-cache.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\find-head-in-cache.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/find-head-in-cache.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\navigate-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\navigate-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\navigate-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\navigate-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\navigate-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\navigate-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/navigate-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\prefetch-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\prefetch-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\prefetch-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\prefetch-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\prefetch-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\prefetch-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/prefetch-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\refresh-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\refresh-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\refresh-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\refresh-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\refresh-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\refresh-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/refresh-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\restore-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\restore-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\restore-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\restore-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\restore-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\restore-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/restore-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\server-patch-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\server-patch-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\server-patch-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\server-patch-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\reducers\\server-patch-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\reducers\\server-patch-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/reducers/server-patch-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\router-reducer-types.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\router-reducer-types.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\router-reducer-types.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\router-reducer-types.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\router-reducer-types.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\router-reducer-types.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\router-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\router-reducer.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\router-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\router-reducer.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\router-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\router-reducer.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/router-reducer.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\should-hard-navigate.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\should-hard-navigate.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\should-hard-navigate.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\should-hard-navigate.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\router-reducer\\should-hard-navigate.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\should-hard-navigate.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/should-hard-navigate.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\searchparams-bailout-proxy.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\searchparams-bailout-proxy.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\searchparams-bailout-proxy.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\searchparams-bailout-proxy.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\searchparams-bailout-proxy.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\searchparams-bailout-proxy.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/searchparams-bailout-proxy.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\static-generation-bailout.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-bailout.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-bailout.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-bailout.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\static-generation-bailout.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-bailout.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-bailout.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-bailout.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\static-generation-bailout.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-bailout.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-bailout.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-bailout.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\use-reducer-with-devtools.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\use-reducer-with-devtools.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\use-reducer-with-devtools.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\use-reducer-with-devtools.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\components\\use-reducer-with-devtools.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\components\\use-reducer-with-devtools.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/use-reducer-with-devtools.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\normalize-trailing-slash.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\normalize-trailing-slash.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\normalize-trailing-slash.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\normalize-trailing-slash.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\normalize-trailing-slash.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\normalize-trailing-slash.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\page-path\\ensure-leading-slash.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/page-path/ensure-leading-slash.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\page-path\\ensure-leading-slash.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/page-path/ensure-leading-slash.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\page-path\\ensure-leading-slash.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/page-path/ensure-leading-slash.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\page-path\\ensure-leading-slash.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/page-path/ensure-leading-slash.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\page-path\\ensure-leading-slash.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/page-path/ensure-leading-slash.js",
+      "name": "__esModule",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\page-path\\ensure-leading-slash.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/page-path/ensure-leading-slash.js",
+      "name": "__esModule",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\page-path\\ensure-leading-slash.js#ensureLeadingSlash": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/page-path/ensure-leading-slash.js",
+      "name": "ensureLeadingSlash",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\page-path\\ensure-leading-slash.js#ensureLeadingSlash": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/page-path/ensure-leading-slash.js",
+      "name": "ensureLeadingSlash",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\add-path-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\add-path-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\add-path-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\add-path-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\add-path-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\add-path-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\add-path-prefix.js#addPathPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
+      "name": "addPathPrefix",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\add-path-prefix.js#addPathPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
+      "name": "addPathPrefix",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\app-paths.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/app-paths.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\app-paths.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/app-paths.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\app-paths.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/app-paths.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\app-paths.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/app-paths.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\handle-smooth-scroll.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/handle-smooth-scroll.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\handle-smooth-scroll.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/handle-smooth-scroll.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\handle-smooth-scroll.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/handle-smooth-scroll.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\handle-smooth-scroll.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/handle-smooth-scroll.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\handle-smooth-scroll.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/handle-smooth-scroll.js",
+      "name": "__esModule",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\handle-smooth-scroll.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/handle-smooth-scroll.js",
+      "name": "__esModule",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\handle-smooth-scroll.js#handleSmoothScroll": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/handle-smooth-scroll.js",
+      "name": "handleSmoothScroll",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\handle-smooth-scroll.js#handleSmoothScroll": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/handle-smooth-scroll.js",
+      "name": "handleSmoothScroll",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-bot.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-bot.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-bot.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-bot.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-bot.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-bot.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-bot.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-bot.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-bot.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-bot.js",
+      "name": "__esModule",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-bot.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-bot.js",
+      "name": "__esModule",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-bot.js#isBot": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-bot.js",
+      "name": "isBot",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-bot.js#isBot": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-bot.js",
+      "name": "isBot",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\parse-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\parse-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\parse-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\parse-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\parse-path.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\parse-path.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\parse-path.js#parsePath": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
+      "name": "parsePath",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\parse-path.js#parsePath": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
+      "name": "parsePath",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\remove-trailing-slash.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\remove-trailing-slash.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\remove-trailing-slash.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\remove-trailing-slash.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\remove-trailing-slash.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\remove-trailing-slash.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\remove-trailing-slash.js#removeTrailingSlash": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
+      "name": "removeTrailingSlash",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\remove-trailing-slash.js#removeTrailingSlash": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
+      "name": "removeTrailingSlash",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css",
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\add-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\add-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\add-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\add-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\add-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\add-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\get-domain-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\get-domain-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\get-domain-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\has-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\has-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\has-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\has-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\request-idle-callback.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\request-idle-callback.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\request-idle-callback.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\use-intersection.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\use-intersection.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\use-intersection.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\client\\use-intersection.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "escapeStringRegexp",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "escapeStringRegexp",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js#RouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "RouterContext",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#RouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "RouterContext",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "interpolateAs",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "interpolateAs",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "isDynamicRoute",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "isDynamicRoute",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "isLocalURL",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "isLocalURL",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#omit": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "omit",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#omit": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "omit",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "pathHasPrefix",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "pathHasPrefix",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "resolveHref",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "resolveHref",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "getRouteMatcher",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "getRouteMatcher",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\utils.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\shared\\lib\\utils.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\Acomplishments.js": {
+      "id": "(app-client)/./src/app/components/Acomplishments/Acomplishments.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\Acomplishments.js#": {
+      "id": "(app-client)/./src/app/components/Acomplishments/Acomplishments.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\Acomplishments.js#default": {
+      "id": "(app-client)/./src/app/components/Acomplishments/Acomplishments.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\AcomplishmentsStyles.js": {
+      "id": "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\AcomplishmentsStyles.js#": {
+      "id": "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\AcomplishmentsStyles.js#Box": {
+      "id": "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+      "name": "Box",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\AcomplishmentsStyles.js#BoxNum": {
+      "id": "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+      "name": "BoxNum",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\AcomplishmentsStyles.js#BoxText": {
+      "id": "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+      "name": "BoxText",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\AcomplishmentsStyles.js#Boxes": {
+      "id": "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+      "name": "Boxes",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\AcomplishmentsStyles.js#IconContainer": {
+      "id": "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+      "name": "IconContainer",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\AcomplishmentsStyles.js#Join": {
+      "id": "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+      "name": "Join",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Acomplishments\\AcomplishmentsStyles.js#JoinText": {
+      "id": "(app-client)/./src/app/components/Acomplishments/AcomplishmentsStyles.js",
+      "name": "JoinText",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\Footer.js": {
+      "id": "(app-client)/./src/app/components/Footer/Footer.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\Footer.js#": {
+      "id": "(app-client)/./src/app/components/Footer/Footer.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\Footer.js#default": {
+      "id": "(app-client)/./src/app/components/Footer/Footer.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#CompanyContainer": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "CompanyContainer",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#FooterWrapper": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "FooterWrapper",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#LinkColumn": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "LinkColumn",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#LinkItem": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "LinkItem",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#LinkList": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "LinkList",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#LinkTitle": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "LinkTitle",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#Slogan": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "Slogan",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#SocialContainer": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "SocialContainer",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Footer\\FooterStyles.js#SocialIconsContainer": {
+      "id": "(app-client)/./src/app/components/Footer/FooterStyles.js",
+      "name": "SocialIconsContainer",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\Header.js": {
+      "id": "(app-client)/./src/app/components/Header/Header.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\Header.js#": {
+      "id": "(app-client)/./src/app/components/Header/Header.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\Header.js#default": {
+      "id": "(app-client)/./src/app/components/Header/Header.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#ContactDropDown": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "ContactDropDown",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#Container": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "Container",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#Div1": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "Div1",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#Div2": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "Div2",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#Div3": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "Div3",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#NavLink": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "NavLink",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#NavProductsIcon": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "NavProductsIcon",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#SocialIcons": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "SocialIcons",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Header\\HeaderStyles.js#Span": {
+      "id": "(app-client)/./src/app/components/Header/HeaderStyles.js",
+      "name": "Span",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Hero\\Hero.js": {
+      "id": "(app-client)/./src/app/components/Hero/Hero.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Hero\\Hero.js#": {
+      "id": "(app-client)/./src/app/components/Hero/Hero.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Hero\\Hero.js#default": {
+      "id": "(app-client)/./src/app/components/Hero/Hero.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Hero\\HeroStyles.js": {
+      "id": "(app-client)/./src/app/components/Hero/HeroStyles.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Hero\\HeroStyles.js#": {
+      "id": "(app-client)/./src/app/components/Hero/HeroStyles.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Hero\\HeroStyles.js#LeftSection": {
+      "id": "(app-client)/./src/app/components/Hero/HeroStyles.js",
+      "name": "LeftSection",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\Projects.js": {
+      "id": "(app-client)/./src/app/components/Projects/Projects.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\Projects.js#": {
+      "id": "(app-client)/./src/app/components/Projects/Projects.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\Projects.js#default": {
+      "id": "(app-client)/./src/app/components/Projects/Projects.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#BlogCard": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "BlogCard",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#CardInfo": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "CardInfo",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#ExternalLinks": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "ExternalLinks",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#GridContainer": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "GridContainer",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#HeaderThree": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "HeaderThree",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#Hr": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "Hr",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#Img": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "Img",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#Intro": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "Intro",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#Tag": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "Tag",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#TagList": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "TagList",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#TitleContent": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "TitleContent",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Projects\\ProjectsStyles.js#UtilityList": {
+      "id": "(app-client)/./src/app/components/Projects/ProjectsStyles.js",
+      "name": "UtilityList",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\Technologies.js": {
+      "id": "(app-client)/./src/app/components/Technologies/Technologies.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\Technologies.js#": {
+      "id": "(app-client)/./src/app/components/Technologies/Technologies.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\Technologies.js#default": {
+      "id": "(app-client)/./src/app/components/Technologies/Technologies.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js#": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js#ImageContainer": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "ImageContainer",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js#List": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "List",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js#ListContainer": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "ListContainer",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js#ListIcon": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "ListIcon",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js#ListItem": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "ListItem",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js#ListParagraph": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "ListParagraph",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js#ListTitle": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "ListTitle",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\Technologies\\TechnologiesStyles.js#MainImage": {
+      "id": "(app-client)/./src/app/components/Technologies/TechnologiesStyles.js",
+      "name": "MainImage",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLine.js": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLine.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLine.js#": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLine.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLine.js#default": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLine.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#CarouselButton": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "CarouselButton",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#CarouselButtonDot": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "CarouselButtonDot",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#CarouselButtons": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "CarouselButtons",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#CarouselContainer": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "CarouselContainer",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#CarouselItem": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "CarouselItem",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#CarouselItemImg": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "CarouselItemImg",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#CarouselItemText": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "CarouselItemText",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#CarouselItemTitle": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "CarouselItemTitle",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\components\\TimeLine\\TimeLineStyles.js#CarouselMobileScrollNode": {
+      "id": "(app-client)/./src/app/components/TimeLine/TimeLineStyles.js",
+      "name": "CarouselMobileScrollNode",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\constants\\constants.js": {
+      "id": "(app-client)/./src/app/constants/constants.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\constants\\constants.js#": {
+      "id": "(app-client)/./src/app/constants/constants.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\constants\\constants.js#TimeLineData": {
+      "id": "(app-client)/./src/app/constants/constants.js",
+      "name": "TimeLineData",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\constants\\constants.js#projects": {
+      "id": "(app-client)/./src/app/constants/constants.js",
+      "name": "projects",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\layout\\LayoutStyles.js": {
+      "id": "(app-client)/./src/app/layout/LayoutStyles.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\layout\\LayoutStyles.js#": {
+      "id": "(app-client)/./src/app/layout/LayoutStyles.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\layout\\LayoutStyles.js#Container": {
+      "id": "(app-client)/./src/app/layout/LayoutStyles.js",
+      "name": "Container",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\Button.js": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/Button.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\Button.js#": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/Button.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\Button.js#default": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/Button.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#ButtonBack": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "ButtonBack",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#ButtonFront": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "ButtonFront",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#LinkContainer": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "LinkContainer",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#LinkIconImg": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "LinkIconImg",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#SecondaryBtn": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "SecondaryBtn",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#Section": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "Section",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#SectionDivider": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "SectionDivider",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#SectionSubText": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "SectionSubText",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#SectionText": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "SectionText",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\GlobalComponents\\index.js#SectionTitle": {
+      "id": "(app-client)/./src/app/styles/GlobalComponents/index.js",
+      "name": "SectionTitle",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\globals.js": {
+      "id": "(app-client)/./src/app/styles/globals.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\globals.js#": {
+      "id": "(app-client)/./src/app/styles/globals.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\globals.js#default": {
+      "id": "(app-client)/./src/app/styles/globals.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\theme.js": {
+      "id": "(app-client)/./src/app/styles/theme.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\theme.js#": {
+      "id": "(app-client)/./src/app/styles/theme.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\styles\\theme.js#default": {
+      "id": "(app-client)/./src/app/styles/theme.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\themes\\default.js": {
+      "id": "(app-client)/./src/app/themes/default.js",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\themes\\default.js#": {
+      "id": "(app-client)/./src/app/themes/default.js",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\Melka\\Portfolio\\portfolio\\src\\app\\themes\\default.js#default": {
+      "id": "(app-client)/./src/app/themes/default.js",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  }
+}
