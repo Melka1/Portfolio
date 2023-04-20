@@ -8,6 +8,7 @@ export const Boxes = styled.div`
   grid-template-columns: repeat(4, 1fr);
   gap: 24px;
   margin: 24px 0 40px;
+  position:relative;
 
   @media ${props => props.theme.breakpoints.md}{
     gap: 16px;
@@ -26,15 +27,21 @@ export const Boxes = styled.div`
 
 export const Box = styled.div`
   background: #212D45;
+  border:1px solid #212D45;
   border-radius: 12px;
   // height: 144px;
   padding: 24px;
+  position:relative;
+  transition: transform 0.5s ease;
+
   @media ${props => props.theme.breakpoints.lg} {
     height: 210px;
 
   }
   &:hover {
     opacity:0.6;
+    border:1px solid lightgray;  
+    transform:scale(1.05);
   }
 
   @media ${props => props.theme.breakpoints.md} {
