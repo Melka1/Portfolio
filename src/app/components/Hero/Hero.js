@@ -10,11 +10,11 @@ const Hero = (props) => (
   <Section>
     <LeftSection>
       <SectionTitle>
-        Welcome, <br/><br/>
+        Welcome,
       </SectionTitle>
       <SectionTitle>My name is Melka Tolessa</SectionTitle>
       <SectionText>
-        I am a fullstack web developer. I build reponsive and interactive websites or webpages using HTML, CSS, Javascipt. and also libraries like jQuery, React, Redux and so on. So, as a developer I will help you reach your goal of having to build a website or a webpage.
+      As a full stack web developer with experience, I am passionate about creating dynamic and user-friendly web applications. With expertise in both front-end and back-end development. My skills include proficiency in programming languages such as HTML, CSS, JavaScript, as well as experience with popular frameworks such as React, Redux, Node js, and Next js. With excellent problem-solving skills and the ability to work both independently and collaboratively, I am confident in my ability to contribute to any development team.
       </SectionText>
       <Button onClick={()=>window.location = 'https://github.com/melka1'}>Learn More</Button>
     </LeftSection>

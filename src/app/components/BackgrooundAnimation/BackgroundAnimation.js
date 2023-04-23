@@ -1,7 +1,8 @@
 import React from 'react';
+import Image from 'next/image';
 
 const BackgroundAnimation = () => (
-  <div>
+  <div style={{position:'relative'}}>
     <svg
       className="BgAnimation__svg"
       viewBox="0 0 602 602"
@@ -359,6 +360,7 @@ const BackgroundAnimation = () => (
         </linearGradient>
       </defs>
     </svg>
+    <Image style={{position:'absolute', top:"12.5%",left:'25%', borderRadius:'50%', height:'360px', width:'360px'}} src={require('../../../../public/photo.jpg')} alt='profile-pic' />
   </div>
 );
 

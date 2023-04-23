@@ -1,7 +1,7 @@
 export const projects = [
   {
-    title: 'Neflix Clone',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Netflix Clone',
+    description: "Using React, Node.js, Express & MongoDB I learned how to build a Full Stack MERN Application - from start to finish. The App is called Netflix Clone and I tried to make it look like the original Netflix and also resemble the user experience.",
       image: '/images/netflix.jpg',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/Melka1/netflix-clone',
@@ -9,8 +9,8 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Aibnb Clone',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'Airbnb Clone',
+    description:"While building it I learned creating a database models and use authenticating users and getting and posting data from database using react's firebase module, that helps users make reservations and keep track of trip history, and also for the owner post properties.",
     image: '/images/airbnb.jpg',
     tags: ['React', 'Firebase', 'Next JS', 'TypeScript'],
     source: 'https://github.com/Melka1/airbnb-clone',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Spotify Clone',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "This project made solely created by JS and jQuery, creating reusable components without the need of frameworks and modules. I build this to understand the core concept that happens behind the scene of major frameworks, it might not resemble the exact structure but could be extrapolated towards it.",
       image: '/images/spotify.jpg',
       tags: ['HTML', 'SASS', 'Javascript', 'jQuery'],
     source: 'https://github.com/Melka1/spotify-s-double',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Questionnaire App',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "This project is made for fun and also to test my general knowledge of science through my website by using a free api for questions. Take the test and examine yours too!",
     image: '/images/quizzical.PNG',
     tags: ['React', 'API'],
     source: 'https://github.com/Melka1/Questionaire',
