@@ -86,29 +86,32 @@ export const UtilityList = styled.ul`
   list-style-type: none;
   padding: 0;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   margin: 2.5rem 0;
 `;
 
 export const ExternalLinks = styled.a`
-color:#d4c0c0;
-font-size: 1.6rem;
-padding:1rem 1.5rem;
-background: #6b3030;
-border-radius: 15px;
-transition: 0.5s;
-&:hover{
-  background: #801414;
+  color:#d4c0c0;
+  font-size: 1.6rem;
+  padding:1rem 1.5rem;
+  background: #6b3030;
+  transition: 0.5s;
+  width:40%;
 
-}
+  ${(props)=>props.left?'border-top-left-radius:15px;':'border-top-right-radius:15px;'}
+  ${(props)=>props.left?'border-bottom-left-radius:15px;':'border-bottom-right-radius:15px;'}
+  ${(props)=>props.left&&'border-right:1px solid gray;'}
+  &:hover{
+    background: #801414;
+  }
 `;
 
 export const TagList = styled.ul`
-display: flex;
-justify-content: space-around;
-padding: 2rem;
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
 `
 export const Tag = styled.li`
-color: #d8bfbf;
-font-size: 1.5rem;
+  color: #d8bfbf;
+  font-size: 1.5rem;
 `
