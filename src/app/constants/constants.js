@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://questionaire-eta.vercel.app/',
     id: 3,
   },
+  {
+    title:'GPT3 Landing page',
+    description:'This is an ongoing project of creating fully developed gpt3 and Open AI access site. At this point, its only a landing page',
+    image:'/images/gpt3.png',
+    tags:['React, CSS'],
+    source:'https://github.com/Melka1/react-gpt3',
+    visit:'https://react-gpt3-silk.vercel.app/',
+    id:4
+  },
 ];
 
 export const TimeLineData = [
