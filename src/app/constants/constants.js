@@ -39,11 +39,20 @@ export const projects = [
     title:'GPT3 Landing page',
     description:'This is an ongoing project of creating fully developed gpt3 and Open AI access site. At this point, its only a landing page',
     image:'/images/gpt3.png',
-    tags:['React, CSS'],
+    tags:['React', 'CSS'],
     source:'https://github.com/Melka1/react-gpt3',
     visit:'https://react-gpt3-silk.vercel.app/',
     id:4
   },
+  {
+    title:'Restaurant Landing Page',
+    description:'Amazing design and client ready webpage for restaurants. Exploring my ability to convert a figma design in to full fledged webpage.',
+    image:'/images/restaurant.jpg',
+    tags:['React', 'CSS'],
+    source:'https://github.com/Melka1/restaurant-landing-page',
+    visit:'https://restaurant-landing-page-indol.vercel.app/',
+    id:5
+  }
 ];
 
 export const TimeLineData = [
