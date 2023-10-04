@@ -14,7 +14,7 @@ const data = [
 
 const Acomplishments = () => (
   <Section>
-    <SectionTitle>Acomplishments</SectionTitle>
+    <SectionTitle>Accomplishments</SectionTitle>
     <Boxes>
       {data.map((card, index) => (
         <a key={index} href={card.link} target='_blank'>
