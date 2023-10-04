@@ -18,7 +18,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience width <br/>
+            Experience with <br/>
             React.js, NextJs
           </ListParagraph>
         </ListContainer>
