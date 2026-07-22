@@ -7,3 +7,8 @@ export const Container = styled.div`
   width: 100%;
   margin: auto;
 `;
+
+export const Main = styled.main`
+  display: block;
+  width: 100%;
+`;

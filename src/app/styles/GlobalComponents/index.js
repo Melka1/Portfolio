@@ -4,99 +4,89 @@ import styled from 'styled-components'
 export const Section = styled.section`
   display: ${(props) => props.grid ? "grid" : "flex" };
   flex-direction: ${(props) => props.row ? "row" : "column" };
-  padding: ${(props) => props.nopadding ? "0" : "20px 40px" } ;
+  padding: ${(props) => props.nopadding ? "0" : "64px 40px" } ;
   margin: 0 auto;
   max-width: 1300px;
-  box-sizing: content-box;
+  width: 100%;
   position: relative;
-  overflow: hidden;
-  grid-template-columns: 1fr 1fr;
+  /* Two columns only when the section actually opts into grid. */
+  grid-template-columns: ${(props) => props.grid ? "1.1fr 0.9fr" : "1fr" };
+  align-items: ${(props) => props.grid ? "center" : "stretch" };
+  gap: ${(props) => props.grid ? "40px" : "0" };
+
+  @media ${(props) => props.theme.breakpoints.lg} {
+    grid-template-columns: 1fr;
+  }
 
   @media ${(props) => props.theme.breakpoints.md} {
-    padding: 16px 32px;
+    padding: ${(props) => props.nopadding ? "0" : "48px 32px" } ;
     flex-direction: column;
+    gap: 24px;
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    padding: ${(props) => props.nopadding ? "0" : "16px 16px 0" } ;
-
-    width: calc(100vw - 32px);
+    padding: ${(props) => props.nopadding ? "0" : "40px 20px" } ;
     flex-direction: column;
   }
 `
 
+/* Fluid type: one clamp() instead of three breakpoint overrides, so the
+   headline never jumps between sizes or overflows its container. */
 export const SectionTitle = styled.h2`
   font-weight: 700;
-  font-size: ${(props) => props.main ? '65px' : '56px'};
-  line-height: ${(props) => props.main ? '72px' : '64px'};
-  width: max-content;
+  font-size: ${(props) => props.main
+    ? 'clamp(3.2rem, 6vw, 6.4rem)'
+    : 'clamp(2.8rem, 4.5vw, 4.8rem)'};
+  line-height: 1.12;
+  letter-spacing: -0.02em;
   max-width: 100%;
-  background: linear-gradient(121.57deg, #FFFFFF 18.77%, rgba(255, 255, 255, 0.66) 60.15%);
+  background: ${(props) => props.theme.gradients.heading};
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
+  /* background-clip:text crops descenders without a little breathing room. */
+  padding-bottom: 0.12em;
   margin-bottom: 8px;
-  padding: ${(props) => props.main ? '58px 0 16px' : '0'};
-
-  @media ${props => props.theme.breakpoints.md}{
-    font-size: ${(props) => props.main ? '56px' : '48px'};
-    line-height: ${(props) => props.main ? '56px' : '48px'};
-    margin-bottom: 12px;
-    padding: ${(props) => props.main ? '40px 0 12px' : '0'};
-  }
-
-  @media ${props => props.theme.breakpoints.sm}{
-    font-size: 32px;
-    line-height: 40px;
-    font-size: ${(props) => props.main ? '28px' : '32px'};
-    line-height: ${(props) => props.main ? '32px' : '40px'};
-    margin-bottom: 8px;
-    padding: ${(props) => props.main ? '16px 0 8px' : '0'};
-    max-width: 100%;
-  }
 `
 
 export const SectionText = styled.p`
-  max-width: 800px;
-  font-size: 20px;
-  line-height: 30px;
+  /* ~65 characters per line — the comfortable reading measure. */
+  max-width: 65ch;
+  font-size: clamp(1.6rem, 1.6vw, 1.9rem);
+  line-height: 1.7;
   font-weight: 300;
-  padding-bottom: 3.6rem;
-  color: rgba(255, 255, 255, 0.5);
+  padding-bottom: 3.2rem;
+  color: ${(props) => props.theme.colors.textMuted};
 
   @media ${(props) => props.theme.breakpoints.md} {
-    max-width: 670px;
-    font-size: 20px;
-    line-height: 32px;
     padding-bottom: 24px;
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    font-size: 16px;
-    line-height: 24px;
     padding-bottom: 16px;
   }
 `
 
 export const SectionDivider = styled.div`
-
   width: 64px;
-  height: 6px;
-  border-radius: 10px;
-  background-color: #fff;
-  background: ${(props) => props.colorAlt ? 
-    'linear-gradient(270deg, #F46737 0%, #945DD6 100%)' :
-    'linear-gradient(270deg, #13ADC7 0%, #945DD6 100%)'};
-
-    margin: ${(props) => props.divider ? "4rem 0" : "" };
+  height: 5px;
+  flex: none;
+  border-radius: ${(props) => props.theme.radii.pill};
+  background: ${(props) => props.colorAlt
+    ? props.theme.gradients.brandAlt
+    : props.theme.gradients.brand};
+  margin: ${(props) => props.divider ? "4rem 0" : "0 0 24px" };
 
   @media ${(props) => props.theme.breakpoints.md} {
     width: 48px;
     height: 4px;
+    margin: ${(props) => props.divider ? "3rem 0" : "0 0 20px" };
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    width: 32px;
-    height: 2px;
+    width: 40px;
+    height: 3px;
+    margin: ${(props) => props.divider ? "2rem 0" : "0 0 16px" };
   }
 `
 export const SectionSubText = styled.p`
@@ -132,9 +122,6 @@ export const SecondaryBtn = styled.button`
   margin-bottom: 80px;
   cursor: pointer;
   transition: 0.4s ease;
-  &:focus {
-    outline: none;
-  }
 
   &:hover {
     color: #0f1624;
@@ -176,7 +163,9 @@ export const ButtonBack = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: ${({ alt, form }) => (alt || form) ? '0' : '0 0 80px'};
+  /* Sections own vertical rhythm now, so the button no longer carries an
+     80px bottom margin that left a hole under the hero. */
+  margin: 0;
   color: #fff;
   background: ${({ alt }) => alt ? 'linear-gradient(270deg, #ff622e 0%, #B133FF 100%)' : 'linear-gradient(270deg, #00DBD8 0%, #B133FF 100%)'};
   cursor: pointer;
@@ -189,14 +178,13 @@ export const ButtonBack = styled.div`
     width: ${({ alt }) => alt ? '150px' : '184px'};
     height: ${({ alt }) => alt ? '52px' : '48px'};
     font-size: ${({ alt }) => alt ? '20px' : '16px'};
-    margin-bottom: ${({ alt }) => alt ? '0' : '64px'};
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
-    height: 32px;
-    font-size: 14px;
-    margin-bottom: ${({ alt }) => alt ? '0' : '32px'};
+    /* 44px keeps this above the minimum comfortable touch target. */
+    height: 48px;
+    font-size: 16px;
   }
 `
 
@@ -223,9 +211,6 @@ export const ButtonFront = styled.button`
   &:hover {
     opacity: 0;
   }
-  &:focus {
-    outline: none;
-  }
   &:active {
     opacity: 1;
     box-shadow: inset 0px 2px 1px rgba(46, 49, 55, 0.15), inset 0px 0px 4px rgba(20, 20, 55, 0.3);
@@ -242,7 +227,7 @@ export const ButtonFront = styled.button`
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    font-size: 14px;
+    font-size: 16px;
   }
 `
 

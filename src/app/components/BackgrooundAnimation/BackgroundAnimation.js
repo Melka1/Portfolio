@@ -2,12 +2,38 @@ import React from 'react';
 import Image from 'next/image';
 import img from '../../../../public/photo.jpg'
 
+// The frame is a square that scales with its column; the portrait is sized
+// as a percentage of it so nothing is pinned to hardcoded pixels.
+const frameStyle = {
+  position: 'relative',
+  width: '100%',
+  maxWidth: '480px',
+  aspectRatio: '1 / 1',
+  margin: '0 auto',
+}
+
+const portraitStyle = {
+  position: 'absolute',
+  top: '50%',
+  left: '50%',
+  transform: 'translate(-50%, -50%)',
+  width: '58%',
+  height: '58%',
+  borderRadius: '50%',
+  objectFit: 'cover',
+  border: '1px solid rgba(255, 255, 255, 0.12)',
+  boxShadow: '0 20px 60px rgba(0, 0, 0, 0.45)',
+}
+
 const BackgroundAnimation = () => (
-  <div style={{position:'relative'}}>
+  <div style={frameStyle}>
     <svg
       className="BgAnimation__svg"
       viewBox="0 0 602 602"
+      width="100%"
+      height="100%"
       fill="none"
+      aria-hidden="true"
       xmlns="http://www.w3.org/2000/svg"
     >
       <g opacity="0.15">
@@ -361,7 +387,7 @@ const BackgroundAnimation = () => (
         </linearGradient>
       </defs>
     </svg>
-    <Image style={{position:'absolute', top:"12.5%",left:'25%', borderRadius:'50%', height:'360px', width:'360px'}} src={img} alt='profile-pic' />
+    <Image style={portraitStyle} src={img} alt='Melka Tolessa' priority />
   </div>
 );
 

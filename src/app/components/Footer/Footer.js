@@ -1,7 +1,8 @@
 'use client'
 
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
+import { FaTiktok } from 'react-icons/fa';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
@@ -24,14 +25,14 @@ const Footer = () => {
         <Slogan>Building one project a time</Slogan>
       </CompanyContainer>
       <SocialContainer>
-        <SocialIcons href='https://github.com/melka1'>
-          <AiFillGithub size='3rem'/>
+        <SocialIcons href='https://github.com/melka1' target='_blank' rel='noopener noreferrer' aria-label='GitHub'>
+          <AiFillGithub/>
         </SocialIcons>
-        <SocialIcons href='https://www.linkedin.com/in/melka-tolessa-11599311b/'>
-          <AiFillLinkedin size='3rem'/>
+        <SocialIcons href='https://www.linkedin.com/in/melka-tolessa-11599311b/' target='_blank' rel='noopener noreferrer' aria-label='LinkedIn'>
+          <AiFillLinkedin/>
         </SocialIcons>
-        <SocialIcons href='https://github.com/melak1'>
-          <AiFillInstagram size='3rem'/>
+        <SocialIcons href='https://www.tiktok.com/@melkatole1' target='_blank' rel='noopener noreferrer' aria-label='TikTok'>
+          <FaTiktok/>
         </SocialIcons>
       </SocialContainer>
     </SocialIconsContainer>

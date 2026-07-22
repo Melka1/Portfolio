@@ -32,87 +32,89 @@ export const MainImage = styled.img`
 export const List = styled.ul`
   list-style-type: none;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 40px;
-  margin: 3rem 0;
-  
-  @media ${props => props.theme.breakpoints.lg}{
-    margin: 64px 0;
-  }
+  /* auto-fit rather than a hard 3 columns, so the row reflows cleanly
+     at tablet widths instead of squeezing. */
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+  margin: 2.4rem 0 0;
+  width: 100%;
 
-  @media ${props => props.theme.breakpoints.md}{
-    margin: 64px 0;
-    gap: 24px
-  }
-  
   @media ${props => props.theme.breakpoints.sm}{
-    display: flex;
-    flex-direction: column;
-    margin: 32px 0;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin: 16px 0 0;
   }
 `
 
 export const ListContainer = styled.div`
   display: flex;
   flex-direction: column;
-
-  @media ${props => props.theme.breakpoints.sm}{
-    display: flex;
-    margin-left: 18px;
-  }
 `
 
 export const ListTitle = styled.h4`
   font-weight: 700;
-  font-size: 28px;
-  line-height: 32px;
-  letter-spacing: 0.02em;
+  font-size: clamp(2rem, 2.2vw, 2.4rem);
+  line-height: 1.25;
+  letter-spacing: -0.01em;
   color: #FFFFFF;
   margin-bottom: 8px;
-
-@media ${props => props.theme.breakpoints.md}{
-  font-size: 24px;
-  line-height: 28px;
-}
-
-@media ${props => props.theme.breakpoints.sm}{
-  font-size: 20px;
-  line-height: 28px;
-  letter-spacing: 0.02em;
-  margin-bottom: 4px;
-}
 `
 
 export const ListParagraph = styled.p`
-  font-size: 18px;
-  line-height: 30px;
-  color: rgba(255, 255, 255, 0.75);
+  font-size: 1.6rem;
+  line-height: 1.6;
+  color: ${props => props.theme.colors.textMuted};
+`
 
-  @media ${props => props.theme.breakpoints.md}{
-    font-size: 16px;
-    line-height: 28px;
+/* Chips rather than a comma-separated sentence — the back-end card lists
+   six items, which reads as a wall of text in prose. */
+export const TechTagList = styled.ul`
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+`
+
+export const TechTag = styled.li`
+  font-size: 1.3rem;
+  line-height: 1;
+  padding: 6px 12px;
+  border-radius: ${props => props.theme.radii.pill};
+  color: ${props => props.theme.colors.textMuted};
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid ${props => props.theme.colors.border};
+`
+
+/* Card treatment so these read as part of the same system as the
+   project and accomplishment cards, instead of floating text. */
+export const ListItem = styled.li`
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 28px 24px;
+  background: ${props => props.theme.colors.surface};
+  border: 1px solid ${props => props.theme.colors.border};
+  border-radius: ${props => props.theme.radii.lg};
+  transition: transform 0.3s ease, border-color 0.3s ease, background-color 0.3s ease;
+
+  svg {
+    color: ${props => props.theme.colors.cyan};
+    flex: none;
+  }
+
+  &:hover {
+    transform: translateY(-4px);
+    border-color: ${props => props.theme.colors.borderStrong};
+    background: ${props => props.theme.colors.surfaceRaised};
   }
 
   @media ${props => props.theme.breakpoints.sm}{
-    font-size: 14px;
-    line-height: 22px;
+    flex-direction: row;
+    /* Content is now taller than the icon, so top-align rather than
+       floating the icon in the vertical middle. */
+    align-items: flex-start;
+    padding: 20px;
   }
-`
-
-export const ListItem = styled.li`
-  max-width: 320px;
-  display: flex;
-  flex-direction: column;
-
-@media ${props => props.theme.breakpoints.md}{
-  max-width: 203px;
-}
-
-@media ${props => props.theme.breakpoints.sm}{
-  margin-bottom: 14px;
-  max-width: 320px;
-  flex-direction: row;
-}
 `
 
 export const ListIcon = styled.img`

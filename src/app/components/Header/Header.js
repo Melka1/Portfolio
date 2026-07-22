@@ -2,50 +2,40 @@
 
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
+import { FaTiktok } from 'react-icons/fa';
 
-import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
+import { Container, Div1, Div2, Div3, Inner, NavLink, SocialIcons, Span } from './HeaderStyles';
 
-const Header = () =>  (
-    <Container>
+const Header = () => (
+  <Container>
+    <Inner>
       <Div1>
-        <Link legacyBehavior href='/' style={{display:'flex',alignItems:'center',color:'white', marginBottom:'20px'}} passHref>
-            <a style={{display:'flex',alignItems:'center',color:'white', marginBottom:'20px'}}>
-              <DiCssdeck size='3rem' /><Span>Portfolio</Span>
-            </a>
+        <Link href='/'>
+          <DiCssdeck size='2.6rem' />
+          <Span>Portfolio</Span>
         </Link>
       </Div1>
       <Div2>
-        <li>
-          <Link href='#projects'>
-            <NavLink>Projects</NavLink>
-          </Link> 
-        </li>
-        <li>
-          <Link href='#tech'>
-            <NavLink>Technologies</NavLink>
-          </Link> 
-        </li>
-        <li>
-          <Link href='#about'>
-            <NavLink>About</NavLink>
-          </Link> 
-        </li>
+        <NavLink as={Link} href='#projects'>Projects</NavLink>
+        <NavLink as={Link} href='#open-source'>Open Source</NavLink>
+        <NavLink as={Link} href='#tech'>Technologies</NavLink>
+        <NavLink as={Link} href='#about'>About</NavLink>
       </Div2>
       <Div3>
-        <SocialIcons href='https://github.com/melka1'>
-          <AiFillGithub size='3rem'/>
+        <SocialIcons href='https://github.com/melka1' target='_blank' rel='noopener noreferrer' aria-label='GitHub'>
+          <AiFillGithub />
         </SocialIcons>
-        <SocialIcons href='https://www.linkedin.com/in/melka-tolessa-11599311b/'>
-          <AiFillLinkedin size='3rem'/>
+        <SocialIcons href='https://www.linkedin.com/in/melka-tolessa-11599311b/' target='_blank' rel='noopener noreferrer' aria-label='LinkedIn'>
+          <AiFillLinkedin />
         </SocialIcons>
-        <SocialIcons href='https://github.com/melak1'>
-          <AiFillInstagram size='3rem'/>
+        <SocialIcons href='https://www.tiktok.com/@melkatole1' target='_blank' rel='noopener noreferrer' aria-label='TikTok'>
+          <FaTiktok />
         </SocialIcons>
       </Div3>
-
-    </Container>
-  );
+    </Inner>
+  </Container>
+);
 
 export default Header;

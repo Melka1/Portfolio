@@ -5,96 +5,64 @@ import styled from "styled-components"
 export const Boxes = styled.div`
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  /* Was a hard 4 columns for 3 items, leaving a dead cell. */
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 24px;
-  margin: 24px 0 40px;
-  position:relative;
+  margin: 8px 0 40px;
 
-  @media ${props => props.theme.breakpoints.md}{
-    gap: 16px;
-    margin: 20px 0 32px;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  /* The cards are wrapped in anchors; make those fill their grid cell so
+     the whole card is the click target and heights stay even. */
+  > a {
+    display: block;
+    height: 100%;
   }
 
   @media ${props => props.theme.breakpoints.sm}{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
-    max-width: 500px;
-    margin: 24px auto;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin: 8px 0 32px;
   }
 `
 
 export const Box = styled.div`
-  background: #212D45;
-  border:1px solid #212D45;
-  border-radius: 12px;
-  // height: 144px;
-  padding: 24px;
-  position:relative;
-  opacity:0.6;
-  transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  /* Heights were fixed per breakpoint, which clipped the longer
+     certificate titles. Let the content set the height instead. */
+  padding: 28px 24px;
+  background: ${props => props.theme.colors.surface};
+  border: 1px solid ${props => props.theme.colors.border};
+  border-radius: ${props => props.theme.radii.lg};
+  transition: transform 0.3s ease, border-color 0.3s ease, background-color 0.3s ease;
 
-  @media ${props => props.theme.breakpoints.lg} {
-    height: 210px;
-
+  svg {
+    color: ${props => props.theme.colors.cyan};
   }
+
   &:hover {
-    opacity:1;
-    border:1px solid lightgray;  
-    transform:scale(1.05);
-  }
-
-  @media ${props => props.theme.breakpoints.md} {
-    height: 135px;
-    padding: 16px;
+    border-color: ${props => props.theme.colors.borderStrong};
+    background: ${props => props.theme.colors.surfaceRaised};
+    transform: translateY(-4px);
   }
 
   @media ${props => props.theme.breakpoints.sm} {
-    height: 110px;
-    padding: 12px;
-    
-    &:nth-child(2n){
-      grid-row:2;
-    }
+    padding: 20px;
   }
 `
 export const BoxNum = styled.h5`
-  font-style: normal;
   font-weight: 600;
-  font-size: 36px;
-  line-height: 40px;
-  letter-spacing: 0.01em;
+  font-size: 2.2rem;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
   color: #FFFFFF;
-  margin-bottom: 8px;
-
-  @media ${props => props.theme.breakpoints.md} {
-    font-size: 28px;
-    line-height: 32px;
-  }
-  @media ${props => props.theme.breakpoints.sm} {
-    font-size: 24px;
-    line-height: 26px;
-}
+  margin-top: 12px;
 `
 
 export const BoxText = styled.p`
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: rgba(255, 255, 255, 0.75);
-
-  @media ${props => props.theme.breakpoints.md}{
-    font-size: 16px;
-    line-height: 20px;
-  };
-
-  @media ${props => props.theme.breakpoints.sm} {
-    font-size: 10px;
-    line-height: 14px;
-  }
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: ${props => props.theme.colors.textMuted};
 `
 
 export const Join = styled.div`
@@ -139,9 +107,4 @@ export const JoinText = styled.h5`
 
 export const IconContainer = styled.div`
   display: flex;
-
-  @media ${props => props.theme.breakpoints.sm}{
-    width: 160px;
-    justify-content: space-between;
-  }
 `

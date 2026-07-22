@@ -45,9 +45,9 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
-      <SectionTitle>About me</SectionTitle>
-      <SectionText>I build reponsive and interactive websites or webpages using HTML, CSS, Javascipt. and also libraries and frameworks like jQuery, React, Next JS, Node, Redux, Zustand and soon. So, as a developer I am happy to help you reach your goal of having to build a website or a webpage.</SectionText>
       <SectionDivider/>
+      <SectionTitle>About me</SectionTitle>
+      <SectionText>I build responsive and interactive websites or webpages using HTML, CSS and JavaScript, along with libraries and frameworks like jQuery, React, Next.js, Node, Redux and Zustand. As a developer, I am happy to help you reach your goal of building a website or a webpage.</SectionText>
     </Section>
   );
 };

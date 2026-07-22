@@ -14,10 +14,11 @@ const data = [
 
 const Acomplishments = () => (
   <Section>
+    <SectionDivider/>
     <SectionTitle>Accomplishments</SectionTitle>
     <Boxes>
       {data.map((card, index) => (
-        <a key={index} href={card.link} target='_blank'>
+        <a key={index} href={card.link} target='_blank' rel='noopener noreferrer'>
           <Box>
             <IconContainer>
               <FaFreeCodeCamp size={38}/>
@@ -29,7 +30,6 @@ const Acomplishments = () => (
         </a>
       ))}
     </Boxes>
-    <SectionDivider/>
   </Section>
 );
 

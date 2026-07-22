@@ -3,70 +3,133 @@
 import { IoIosArrowDropdown } from 'react-icons/io';
 import styled from 'styled-components';
 
-export const Container = styled.div`
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: 1fr;
-  grid-column-gap: 2rem;
-  padding: 1rem;
-  padding-top: 2rem;
+/* Sticky, translucent bar. Was a 5-column grid that collapsed into
+   overlapping areas at small widths. */
+export const Container = styled.header`
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  background: rgba(15, 22, 36, 0.72);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid ${(props) => props.theme.colors.border};
+`;
 
-  @media ${(props) => {
-    return props.theme.breakpoints.sm
-    }} {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(2, 60px);
-    grid-column-gap: 0.5rem;
-    grid-row-gap: 0.5rem;
+export const Inner = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 16px 40px;
+
+  @media ${(props) => props.theme.breakpoints.md} {
+    padding: 12px 24px;
+    gap: 16px;
+  }
+
+  @media ${(props) => props.theme.breakpoints.sm} {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 12px 16px;
+    row-gap: 8px;
   }
 `;
 
 export const Span = styled.span`
-  font-size:2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 `;
 
 export const Div1 = styled.div`
-  grid-area: 1 / 1 / 2 / 2;
   display: flex;
-  flex-direction: row;
-  align-content: center;
-  @media ${(props) => props.theme.breakpoints.sm} {
-    grid-area: 1 / 1 / 2 / 3;
-  }
-`;
-export const Div2 = styled.div`
-  grid-area: 1 / 2 / 2 / 4;
-  display: flex;
-  justify-content: space-around;
-  @media ${(props) => props.theme.breakpoints.sm} {
-    grid-area: 2 / 2 / 3 / 5;
-  }
-`;
-export const Div3 = styled.div`
-  grid-area: 1 / 5 / 2 / 6;
-  display: flex;
-  justify-content: space-around;
   align-items: center;
-  @media ${(props) => props.theme.breakpoints.sm} {
+  flex: 0 0 auto;
+
+  a {
+    display: flex;
     align-items: center;
-    grid-area: 1 / 4 / 2 / 6;
+    gap: 8px;
+    color: ${(props) => props.theme.colors.text};
+    transition: opacity 0.3s ease;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  @media ${(props) => props.theme.breakpoints.sm} {
+    order: 1;
+  }
+`;
+
+export const Div2 = styled.nav`
+  display: flex;
+  align-items: center;
+  gap: 32px;
+
+  @media ${(props) => props.theme.breakpoints.md} {
+    gap: 20px;
+  }
+
+  @media ${(props) => props.theme.breakpoints.sm} {
+    order: 3;
+    flex-basis: 100%;
+    justify-content: center;
+    gap: 16px;
+  }
+`;
+
+export const Div3 = styled.div`
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex: 0 0 auto;
+
+  @media ${(props) => props.theme.breakpoints.sm} {
+    order: 2;
   }
 `;
 
 // Navigation Links
 export const NavLink = styled.a`
-  font-size: 2rem;
-  line-height: 32px;
-  color: rgba(255, 255, 255, 0.75);
-  transition: 0.4s ease;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1;
+  padding: 6px 0;
+  color: ${(props) => props.theme.colors.textMuted};
+  transition: color 0.3s ease;
+  cursor: pointer;
+
+  /* Gradient underline that wipes in on hover. */
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    border-radius: 2px;
+    background: ${(props) => props.theme.gradients.brand};
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease;
+  }
+
   &:hover {
     color: #fff;
-    opacity: 1;
-    cursor: pointer;
   }
+
+  &:hover::after {
+    transform: scaleX(1);
+  }
+
   @media ${(props) => props.theme.breakpoints.sm} {
-    padding: 0.5rem;
+    font-size: 1.5rem;
   }
 `;
 
@@ -77,15 +140,11 @@ export const ContactDropDown = styled.button`
   position: relative;
   background: none;
   font-size: 1.7rem;
-
   line-height: 32px;
-  color: rgba(255, 255, 255, 0.75);
+  color: ${(props) => props.theme.colors.textMuted};
   cursor: pointer;
   transition: 0.3s ease;
 
-  &:focus {
-    outline: none;
-  }
   &:hover {
     color: #fff;
   }
@@ -117,17 +176,27 @@ export const NavProductsIcon = styled(IoIosArrowDropdown)`
 `;
 
 
-// Social Icons 
+// Social Icons
 
 export const SocialIcons = styled.a`
-transition: 0.3s ease;
-color: white;
-border-radius: 50px;
-  padding: 8px;
-&:hover {
-    background-color: #212d45;
-    transform: scale(1.2);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: ${(props) => props.theme.colors.textMuted};
+  transition: color 0.3s ease, background-color 0.3s ease, transform 0.3s ease;
+
+  svg {
+    width: 2.2rem;
+    height: 2.2rem;
+  }
+
+  &:hover {
+    color: #fff;
+    background-color: ${(props) => props.theme.colors.surfaceRaised};
+    transform: translateY(-2px);
     cursor: pointer;
-    
   }
 `
