@@ -47,7 +47,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionDivider/>
       <SectionTitle>About me</SectionTitle>
-      <SectionText>I build responsive and interactive websites or webpages using HTML, CSS and JavaScript, along with libraries and frameworks like jQuery, React, Next.js, Node, Redux and Zustand. As a developer, I am happy to help you reach your goal of building a website or a webpage.</SectionText>
+      <SectionText>I build responsive, interactive products for the web and for mobile — using React, Next.js and TypeScript on the front end, Node, Firebase and Supabase behind it, and Flutter or React Native when the job calls for a native app. I work equally well on my own or as part of a team, and I am happy to help you get your idea shipped.</SectionText>
     </Section>
   );
 };

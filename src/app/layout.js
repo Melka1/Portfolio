@@ -13,7 +13,7 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata = {
   title: 'Melka Tolessa — Full Stack Developer',
   description:
-    'Portfolio of Melka Tolessa, a full stack web developer building responsive, interactive web applications with React, Next.js and Node.',
+    'Portfolio of Melka Tolessa, a full stack developer building web and mobile products with React, Next.js, Node and Flutter.',
 }
 
 export const viewport = {
