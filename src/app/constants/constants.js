@@ -1,5 +1,23 @@
 export const projects = [
   {
+    title: 'GoJegna Workout Tracker',
+    description:
+      'A workout tracker for building and customizing training programs, logging strength, bodyweight, and cardio sessions, and reviewing progress with exercise charts, a workout calendar, and weekly summaries. It suggests next weights and reps, includes rest timers and exercise demo videos, and supports account-based cloud sync and sharing programs or workout sets.',
+    image: '/images/gojegna-feature.jpg',
+    tags: ['Android', 'Fitness'],
+    visit: 'https://play.google.com/store/apps/details?id=com.melkatole1.getjacked',
+    id: 9,
+  },
+  {
+    title: 'Lideta Church App',
+    description:
+      'A church companion app with a Bible reader and search, daily verses with reading streaks, Bible study groups and courses, quizzes, worship songs, and audio and video resources. Members can also keep up with church news and events, receive notifications, and connect through chat and counseling features.',
+    image: '/images/lideta-church-feature.png',
+    tags: ['Android', 'Church'],
+    visit: 'https://play.google.com/store/apps/details?id=com.lidetachurch.app',
+    id: 8,
+  },
+  {
     title: 'Digital Wedding Invitation',
     description:
       'A client wedding site built around a digital RSVP card. Guests open an animated envelope, browse the story and gallery, then RSVP to receive a QR invitation. Behind it sit a live wall of guest messages and a scanner that validates each QR at the door to confirm the guest is cleared for the reception.',
