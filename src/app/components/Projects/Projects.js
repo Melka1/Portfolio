@@ -1,17 +1,36 @@
 'use client'
 
-import React from 'react';
+import React, { useRef } from 'react';
 
-import { BlogCard, CardFooter, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
+import { BlogCard, CardFooter, CardInfo, CarouselButton, CarouselControls, ExternalLinks, GridContainer, HeaderThree, Hr, ProjectsHeading, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
 
-const Projects = () => (
-  <Section id='projects'>
-    <SectionDivider/>
-    <SectionTitle main>Projects</SectionTitle>
-    <GridContainer>
-      {projects.map(({id, title, description, tags, visit, image, source})=>(
+const Projects = () => {
+  const carouselRef = useRef(null);
+
+  const moveCarousel = (direction) => {
+    const carousel = carouselRef.current;
+    if (!carousel) return;
+    carousel.scrollBy({ left: direction * carousel.clientWidth, behavior: 'smooth' });
+  };
+
+  return (
+    <Section id='projects'>
+      <SectionDivider/>
+      <ProjectsHeading>
+        <SectionTitle main>Projects</SectionTitle>
+        <CarouselControls aria-label='Project carousel controls'>
+          <CarouselButton type='button' onClick={() => moveCarousel(-1)} aria-label='Previous projects' aria-controls='projects-carousel'>
+            <span aria-hidden='true'>←</span>
+          </CarouselButton>
+          <CarouselButton type='button' onClick={() => moveCarousel(1)} aria-label='Next projects' aria-controls='projects-carousel'>
+            <span aria-hidden='true'>→</span>
+          </CarouselButton>
+        </CarouselControls>
+      </ProjectsHeading>
+      <GridContainer id='projects-carousel' ref={carouselRef} aria-label='Projects' aria-roledescription='carousel' tabIndex='0'>
+        {projects.map(({id, title, description, tags, visit, image, source})=>(
         <BlogCard key={id}>
           {image && <Img src={image} alt={`Screenshot of the ${title} project`} loading='lazy'/>}
           <TitleContent>
@@ -35,9 +54,10 @@ const Projects = () => (
             </UtilityList>
           </CardFooter>
         </BlogCard>
-      ))}
-    </GridContainer>
-  </Section>
-);
+        ))}
+      </GridContainer>
+    </Section>
+  );
+};
 
 export default Projects;

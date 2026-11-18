@@ -14,16 +14,20 @@ export const Img = styled.img`
 `
 
 export const GridContainer = styled.section`
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  /* stretch, so cards in a row share a height */
+  display: flex;
   align-items: stretch;
   gap: 32px;
   padding: 24px 0 8px;
   width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar { display: none; }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    grid-template-columns: 1fr;
     gap: 24px;
     padding: 16px 0 0;
   }
@@ -32,8 +36,10 @@ export const GridContainer = styled.section`
 export const BlogCard = styled.div`
   display: flex;
   flex-direction: column;
-  width: 100%;
+  flex: 0 0 calc((100% - 64px) / 3);
+  min-width: 0;
   height: 100%;
+  scroll-snap-align: start;
   text-align: left;
   overflow: hidden;
   background: ${(props) => props.theme.colors.surface};
@@ -51,6 +57,47 @@ export const BlogCard = styled.div`
   &:hover ${Img} {
     transform: scale(1.04);
   }
+
+  @media (max-width: 900px) {
+    flex-basis: calc((100% - 32px) / 2);
+  }
+
+  @media ${(props) => props.theme.breakpoints.sm} {
+    flex-basis: 100%;
+  }
+`;
+
+export const ProjectsHeading = styled.div`
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  @media ${(props) => props.theme.breakpoints.sm} {
+    gap: 12px;
+  }
+`;
+
+export const CarouselControls = styled.div`
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-left: auto;
+`;
+
+export const CarouselButton = styled.button`
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  color: ${(props) => props.theme.colors.text};
+  font-size: 2rem;
+  background: ${(props) => props.theme.colors.surface};
+  border: 1px solid ${(props) => props.theme.colors.border};
+  border-radius: ${(props) => props.theme.radii.pill};
+  cursor: pointer;
+
+  &:hover { border-color: ${(props) => props.theme.colors.borderStrong}; }
+  &:focus-visible { outline: 2px solid ${(props) => props.theme.colors.cyan}; outline-offset: 3px; }
 `;
 
 export const TitleContent = styled.div`
