@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { DiDatabase, DiReact } from 'react-icons/di';
+import { HiOutlineSparkles } from 'react-icons/hi';
 import { SiFlutter } from 'react-icons/si';
 
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
@@ -29,6 +30,12 @@ const technologies = [
     blurb: 'Cross-platform apps and published packages.',
     items: ['Flutter', 'Dart', 'React Native'],
   },
+  {
+    title: 'AI Integration',
+    Icon: HiOutlineSparkles,
+    blurb: 'LLM features shipped behind secure, rate-limited APIs.',
+    items: ['Gemini API', 'Prompt Engineering', 'Serverless API Proxy', 'Usage Quotas'],
+  },
 ];
 
 const Technologies = () => (
@@ -37,7 +44,7 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I have worked with a wide range of technologies, from frontend and backend
-      web development through to cross-platform mobile.
+      web development through to cross-platform mobile and AI-powered features.
     </SectionText>
     <List>
       {technologies.map(({ title, Icon, iconSize, blurb, items }) => (
