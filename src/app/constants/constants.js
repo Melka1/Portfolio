@@ -1,10 +1,19 @@
 export const projects = [
   {
+    title: 'Ethio Calendar',
+    description:
+      'An Ethiopian and Gregorian calendar app with 100+ downloads on Google Play, built on my ethio_greg_dual_calendar package. It shows both dates in every cell, marks all of Ethiopia’s public holidays, computes movable feasts like Fasika, and runs in English, Amharic, Afaan Oromoo and Tigrinya. Version 2 adds personal events that repeat by either calendar, reminders, and seasonal festival themes, with all data kept on the device.',
+    image: '/images/ethio-calendar-feature.jpg',
+    tags: ['Android', 'Flutter', 'Bloc'],
+    visit: 'https://play.google.com/store/apps/details?id=com.melkatole1.dual_calendar',
+    id: 10,
+  },
+  {
     title: 'GoJegna Workout Tracker',
     description:
-      'A workout tracker for building and customizing training programs, logging strength, bodyweight, and cardio sessions, and reviewing progress with exercise charts, a workout calendar, and weekly summaries. It suggests next weights and reps, includes rest timers and exercise demo videos, and supports account-based cloud sync and sharing programs or workout sets.',
-    image: '/images/gojegna-feature.jpg',
-    tags: ['Android', 'Fitness'],
+      'A workout tracker for building and customizing training programs, logging strength, bodyweight, and cardio sessions, and reviewing progress with exercise charts, a workout calendar, and weekly summaries. It suggests next weights and reps, includes rest timers and exercise demo videos, and supports account-based cloud sync and sharing programs or workout sets. Jegna, its AI trainer, uses the Gemini API to build programs and coach from your training history, through a Cloud Functions proxy that keeps the API key off the device and enforces per-user quotas.',
+    image: '/images/gojegna-card.jpg',
+    tags: ['Android', 'Flutter', 'Gemini API', 'Firebase', 'Cloud Functions', 'Bloc'],
     visit: 'https://play.google.com/store/apps/details?id=com.melkatole1.getjacked',
     id: 9,
   },
@@ -12,8 +21,8 @@ export const projects = [
     title: 'Lideta Church App',
     description:
       'A church companion app with a Bible reader and search, daily verses with reading streaks, Bible study groups and courses, quizzes, worship songs, and audio and video resources. Members can also keep up with church news and events, receive notifications, and connect through chat and counseling features.',
-    image: '/images/lideta-church-feature.png',
-    tags: ['Android', 'Church'],
+    image: '/images/lideta-church-card.jpg',
+    tags: ['Android', 'Flutter', 'Firebase', 'Cloud Messaging', 'Bloc'],
     visit: 'https://play.google.com/store/apps/details?id=com.lidetachurch.app',
     id: 8,
   },
