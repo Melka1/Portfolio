@@ -4,7 +4,6 @@ import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
-import { FaTiktok } from 'react-icons/fa';
 
 import { Container, Div1, Div2, Div3, Inner, NavLink, SocialIcons, Span } from './HeaderStyles';
 
@@ -29,9 +28,6 @@ const Header = () => (
         </SocialIcons>
         <SocialIcons href='https://www.linkedin.com/in/melka-tolessa-11599311b/' target='_blank' rel='noopener noreferrer' aria-label='LinkedIn'>
           <AiFillLinkedin />
-        </SocialIcons>
-        <SocialIcons href='https://www.tiktok.com/@melkatole1' target='_blank' rel='noopener noreferrer' aria-label='TikTok'>
-          <FaTiktok />
         </SocialIcons>
       </Div3>
     </Inner>
